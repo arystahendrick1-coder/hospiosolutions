@@ -168,8 +168,8 @@ img{max-width:100%;display:block}
 .avatar{width:2.5rem;height:2.5rem;border-radius:50%;object-fit:cover;flex:none;display:block}
 .view[hidden]{display:none}
 
-/* Layar desktop (lebar 1200px ke atas) tampil seperti zoom 125%; HP dan tablet tidak berubah */
-@media(min-width:1200px){html{font-size:125%}}
+/* Layar desktop (lebar 1200px ke atas) tampil seperti zoom 120%; HP dan tablet tidak berubah */
+@media(min-width:1200px){html{font-size:120%}}
 .social svg{width:1.125rem;height:1.125rem}
 .share svg{width:1.375rem;height:1.375rem}
 
