@@ -1,2 +1,0 @@
-# Link lama Wix: /post/judul -> /blog/judul
-/post/*   /blog/:splat   301
