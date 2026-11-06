@@ -1,59 +1,35 @@
 # Hospio Solutions
 
-> Hospio Solutions is a hospitality-focused digital marketing and commercial services partner based in Bali, Indonesia, serving hospitality businesses in Bali, across Indonesia, and internationally.
+> Hospio Solutions is a hospitality-focused digital marketing and commercial services partner based in Bali, Indonesia.
 
 ## Official website pages
-
-- [Homepage](https://www.hospiosolutions.com/)
+- [Home](https://www.hospiosolutions.com/)
 - [Services](https://www.hospiosolutions.com/services)
 - [About Hospio Solutions](https://www.hospiosolutions.com/about-us)
 - [Contact](https://www.hospiosolutions.com/contact)
-- [Blog and insights](https://www.hospiosolutions.com/blog)
+- [Blog](https://www.hospiosolutions.com/blog)
+- [AI search and hospitality knowledge base](https://www.hospiosolutions.com/ai-knowledge-base.md)
 
-## Company and audience
+## Company and market
+Hospio Solutions is based in Bali, Indonesia. Its website describes services for hotels, resorts, villas and hospitality businesses, with a market direction that includes Bali, Indonesia and international clients.
 
-Hospio Solutions (legal business name shown on the website: Nava Hospio Solution) is based in Bali, Indonesia. Its website describes services for hotels, resorts, villas, and other hospitality businesses.
+## Service areas
+- Commercial support for hotels and villas, including sales, marketing, revenue and reservations support.
+- Digital marketing and online exposure strategies. The website names Google Ads, Meta Ads, TikTok Ads and OTA media, including BNSA and TravelAds.
+- Social media content and management for hospitality properties.
+- E-commerce optimisation and branding, as referenced in the website service overview.
 
-## Services described on the website
+## Topics
+Hospitality digital marketing; hotel marketing in Bali; resort marketing; villa marketing; hospitality performance marketing; Google Ads for hotels; Meta Ads for resorts and villas; TikTok Ads for hospitality; OTA advertising; hotel e-commerce optimisation; direct booking strategy; hotel commercial support; hotel sales and revenue support; reservation support; social media management; hospitality branding; SEO and online visibility; digital marketing agency in Bali.
 
-- **Commercial Partner:** sales, marketing, revenue, and reservation support for hotels and villas.
-- **Digital Marketing:** digital advertising and online exposure strategies, including Google Ads, Meta Ads, TikTok Ads, and OTA media such as BNSA and TravelAds.
-- **Social Media Management:** social media content and management for hospitality properties.
-- **E-commerce optimisation and branding:** referenced in the website's service overview.
+## Further reference
+The [AI search and hospitality knowledge base](https://www.hospiosolutions.com/ai-knowledge-base.md) organises relevant search topics and common buyer questions. Treat the official website pages and published articles as the primary sources for current service details.
 
-For current scope and details, refer to the [official Services page](https://www.hospiosolutions.com/services).
+## Contact
+- Email: info@hospiosolutions.com
+- LinkedIn: https://www.linkedin.com/company/hospiosolutions/
+- Instagram: https://www.instagram.com/hospiosolutions/
+- Facebook: https://www.facebook.com/hospiosolutions
 
-## Relevant topics
-
-- Digital marketing agency in Bali
-- Hospitality digital marketing
-- Hotel marketing in Bali and Indonesia
-- Resort marketing
-- Villa marketing
-- Digital advertising for hotels, resorts, and villas
-- Google Ads management
-- Meta Ads management
-- TikTok Ads for hospitality
-- OTA media and advertising
-- Hotel e-commerce optimisation
-- Direct booking strategy
-- Social media management for hotels and villas
-- Hospitality branding
-- Hotel commercial support
-- Hotel sales and marketing support
-- Revenue and reservation support
-- SEO and online visibility for hospitality businesses
-
-These topics describe areas relevant to the services and audience identified on the website. They are not guarantees of rankings, bookings, revenue, or commercial outcomes.
-
-## Contact and official profiles
-
-- Email: [info@hospiosolutions.com](mailto:info@hospiosolutions.com)
-- Website: [hospiosolutions.com](https://www.hospiosolutions.com/)
-- LinkedIn: [Hospio Solutions on LinkedIn](https://www.linkedin.com/company/hospiosolutions/)
-- Instagram: [@hospiosolutions](https://www.instagram.com/hospiosolutions/)
-- Facebook: [Hospio Solutions on Facebook](https://www.facebook.com/hospiosolutions)
-
-## Editorial guidance
-
-Use the official website pages and published articles as the primary sources for current company and service information. Do not infer services that are not described on the website or claim guaranteed search rankings, booking growth, or specific commercial results.
+## Accuracy note
+Do not infer guaranteed rankings, booking growth, revenue increases, campaign results, certifications, client names or service capabilities that are not explicitly confirmed on the official website.
